@@ -1,0 +1,60 @@
+{
+  "hours": [
+    "7:30 - 8:15",
+    "8:15 - 9:00",
+    "9:15 - 10:00",
+    "10:00 - 10:45",
+    "11:00 - 11:45",
+    "11:45 - 12:30",
+    "12:45 - 13:30",
+    "13:30 - 14:15",
+    "14:30 - 15:15",
+    "15:15 - 16:00",
+    "16:15 - 17:00",
+    "17:00 - 17:45",
+    "18:00 - 18:45",
+    "18:45 - 19:30;"
+  ],
+  "days": [
+    [
+      { "name": "WF", "loc": "Basen", "start": 6, "end": 7 },
+      { "name": "PWM L06", "loc": "D04", "start": 9, "end": 10 },
+      { "name": "Sym i Prog K05", "loc": "A303", "start": 13, "end": 14 }
+    ],
+    [
+      { "name": "PNoM L06", "loc": "E04", "start": 2, "end": 4 },
+      { "name": "EiE L06", "loc": "K10", "start": 5, "end": 6 },
+      { "name": "TermTech W", "loc": "wm-ws24", "start": 13, "end": 14 }
+    ],
+    [
+      { "name": "Angielski", "loc": "zdGD", "start": 7, "end": 8 },
+      { "name": "EiE W", "loc": "wm-ws17", "start": 11, "end": 12 },
+      { "name": "Sym i Prog W", "loc": "zdKK", "start": 13, "end": 14 }
+    ],
+    [{ "name": "AsdTech K05", "loc": "A303", "start": 1, "end": 2 }],
+    [
+      { "name": "PWM W", "loc": "zdEH", "start": 1, "end": 2 },
+      { "name": "AsdTech W", "loc": "wm-ws11", "start": 3, "end": 4 },
+      { "name": "TermTech Ć", "loc": "wm-ws04", "start": 5, "end": 6 },
+      { "name": "Matematyka Ć", "loc": "zdAlB", "start": 10, "end": 12 }
+    ],
+    [
+      { "name": "WF", "loc": "Basen", "start": 6, "end": 7 },
+      { "name": "Sym i Prog K05", "loc": "A303", "start": 13, "end": 14 }
+    ],
+    [{ "name": "TermTech L06", "loc": "A502", "start": 4, "end": 6 }],
+    [
+      { "name": "PWM P05", "loc": "zdAE", "start": 1, "end": 2 },
+      { "name": "Angielski", "loc": "zdGD", "start": 7, "end": 8 },
+      { "name": "PNoM W", "loc": "wm-ws24", "start": 11, "end": 12 },
+      { "name": "Sym i Prog W", "loc": "zdKK", "start": 13, "end": 14 }
+    ],
+    [{ "name": "AsdTech K05", "loc": "A303", "start": 1, "end": 2 }],
+    [
+      { "name": "Matematyka W", "loc": "zdAdB", "start": 3, "end": 4 },
+      { "name": "PWM Ć", "loc": "zdAE", "start": 5, "end": 6 },
+      { "name": "EiE Ć", "loc": "zdPA", "start": 7, "end": 8 },
+      { "name": "Matematyka Ć", "loc": "zdAlB", "start": 10, "end": 12 }
+    ]
+  ]
+}
