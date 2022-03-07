@@ -1,16 +1,9 @@
-import { useState } from "react";
+//import timetable from "../utils/timetable.json";
 
 const Timetable = () => {
-  const [timetable, setTimetable] = useState([
-    { id: 1, text: "PNOM", start: 1, end: 2 },
-    { id: 2, text: "SiP", start: 3, end: 4 },
-  ]);
-
   return (
     <>
-      {timetable.map((lesson) => (
-        <h3 key={lesson.id}>{lesson.text}</h3>
-      ))}
+      <h3>test</h3>
     </>
   );
 };

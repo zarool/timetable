@@ -3,9 +3,8 @@ function getTitle() {
   const days = Math.ceil(diff / (1000 * 60 * 60 * 24));
   const num = Math.floor(days / 7);
 
-  let TITLE = num % 2 == 0 ? "Tydzień nieparzysty" : "Tydzień parzysty";
+  let TITLE = num % 2 === 0 ? "Tydzień nieparzysty" : "Tydzień parzysty";
 
-  console.log(TITLE);
   return TITLE;
 }
 
